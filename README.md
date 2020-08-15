@@ -2,7 +2,7 @@
 BRRR.fi smart contracts
 <div id="ethdoc-viewer">
 
-### Brrr
+### BRRR contract docs
 
 **Functions**
 
